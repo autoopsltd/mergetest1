@@ -4,3 +4,4 @@ Line three is three
 Line four is four
 Line five is five
 Line seven is seven
+Line six is six
